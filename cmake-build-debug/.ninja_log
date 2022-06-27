@@ -1,0 +1,25 @@
+# ninja log v5
+18	2503	6779698695498302	CMakeFiles/platformer.dir/StateMachine.cpp.obj	edec125f27501d61
+9	1334	6780391071503953	CMakeFiles/project-tests.dir/tests/tests.cpp.obj	d87e7fcbf8fa681a
+9	2519	6779698695721086	CMakeFiles/platformer.dir/tests.cpp.obj	54991f12ff570d9a
+19	1657	6780390969802360	CMakeFiles/platformer.dir/src/Game.cpp.obj	b17ce5c6fddb5392
+15	2694	6779698697512942	CMakeFiles/platformer.dir/MenuState.cpp.obj	cb252f4ed163cbdb
+5	3160	6779698702109888	CMakeFiles/platformer.dir/main.cpp.obj	3e1037ecb1ec536f
+0	481	6780392240960737	build.ninja	26dbec45f09a34d
+11	3473	6779698705227627	CMakeFiles/platformer.dir/Game.cpp.obj	9fd89d8514fa0642
+1657	2588	6780390979116280	platformer.exe	2ab31507f67525b2
+25	1155	6780390964915612	CMakeFiles/platformer.dir/src/StateMachine.cpp.obj	46c10428e601665c
+21	1150	6780391069628952	CMakeFiles/project-tests.dir/src/StateMachine.cpp.obj	e819a1727e30bd69
+4	1319	6780390966521430	CMakeFiles/platformer.dir/src/main.cpp.obj	4f260ff0f63a173b
+14	1177	6780390965115344	CMakeFiles/platformer.dir/src/MenuState.cpp.obj	32254a1efb44a2b
+14	1282	6780391071035212	CMakeFiles/project-tests.dir/src/MenuState.cpp.obj	c60d17e9b206fcb0
+4	1764	6780391075804449	CMakeFiles/project-tests.dir/src/Game.cpp.obj	e224482a7132c55a
+7	6763	6779870316904647	CMakeFiles/doctest.dir/external/doctest.cpp.obj	e341f022567c1877
+6763	7223	6779870321602651	libdoctest.a	208f2741d8ed4b28
+10	1332	6779869962544064	CMakeFiles/project-tests.dir/src/main.cpp.obj	a361727ff24621bc
+1764	2684	6780391084983862	project-tests.exe	6b7c604d1804fba
+12	977	6780392294320303	CMakeFiles/platformer.dir/src/StateMachine.cpp.obj	a045e8549237372a
+9	1278	6780392297179303	CMakeFiles/platformer.dir/src/MenuState.cpp.obj	21bb0c50008ceb5
+7	1427	6780392298741757	CMakeFiles/platformer.dir/src/main.cpp.obj	c8efb03a8706237
+3	1921	6780392303731777	CMakeFiles/platformer.dir/src/Game.cpp.obj	412cee1c1ad9a404
+1921	2895	6780392313352909	platformer.exe	346754b2d0598bd8

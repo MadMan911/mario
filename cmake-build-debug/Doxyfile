@@ -1,0 +1,3 @@
+OUTPUT_DIRECTORY       = C:/Users/pc/Desktop/platformer/docs/
+INPUT                  = C:/Users/pc/Desktop/platformer/ C:/Users/pc/Desktop/platformer/docs
+EXTRACT_PRIVATE        = YES

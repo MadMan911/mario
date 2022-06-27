@@ -1,0 +1,6 @@
+C:/Users/pc/Desktop/platformer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/pc/Desktop/platformer/cmake-build-debug/CMakeFiles/test.dir
+C:/Users/pc/Desktop/platformer/cmake-build-debug/CMakeFiles/doctest.dir
+C:/Users/pc/Desktop/platformer/cmake-build-debug/CMakeFiles/platformer.dir
+C:/Users/pc/Desktop/platformer/cmake-build-debug/CMakeFiles/project-tests.dir
+C:/Users/pc/Desktop/platformer/cmake-build-debug/CMakeFiles/edit_cache.dir
